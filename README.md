@@ -1,10 +1,8 @@
-# Java-BootCamp
-A comprehensive wrap-up and code repository for the "Master Java Bundle" course by Code With Mosh. This repo contains my practical implementations and personal summaries covering Java Basics, Object-Oriented Programming (OOP), and Advanced Java topics.
 # Java-BootCamp: Ultimate Java Mastery Series ☕
 
 A comprehensive wrap-up and code repository for the **Master Java Bundle** (Ultimate Java Mastery Series) by [Code With Mosh](https://codewithmosh.com/). This repository serves as my personal workspace for practical implementations, exercises, and summary notes covering everything from Java fundamentals to advanced backend concepts.
 
-## 📚 Course Outline & Topics Covered
+##  Course Outline & Topics Covered
 
 ### Part 1: Java Fundamentals
 This section covers the core syntax and foundations of Java programming, clean coding, and debugging.
@@ -34,10 +32,10 @@ This section explores complex Java features essential for high-performance and s
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Language:** Java
-* **IDE:** IntelliJ IDEA / VS Code
+* **IDE:** IntelliJ IDEA 
 * **Principles:** OOP, SOLID Principles (Interface Segregation), Clean Code
 
-## 🎯 Purpose of this Repository
+## Purpose of this Repository
 This repo is built to transition from basic Java syntax all the way to enterprise-level architecture. It acts as a central hub for my code snippets, refactored projects, and personal notes for technical interviews and future backend development reference.
